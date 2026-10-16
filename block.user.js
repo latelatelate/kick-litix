@@ -3,8 +3,8 @@
 // @namespace    local.kick.blockLitixIO
 // @version      1.0.0
 // @license MIT
-// @updateURL    https://raw.githubusercontent.com/latelatelate/kick-litix/refs/heads/main/block.js
-// @downloadURL  https://raw.githubusercontent.com/latelatelate/kick-litix/refs/heads/main/block.js
+// @updateURL    https://raw.githubusercontent.com/latelatelate/kick-litix/refs/heads/main/block.user.js
+// @downloadURL  https://raw.githubusercontent.com/latelatelate/kick-litix/refs/heads/main/block.user.js
 // @author       https://github.com/latelatelate/kick-litix
 // @description  Prevents litix.io send beacon request spam when using DNS level adblock or extensions like uBlock Origin
 // @match        https://kick.com/*
